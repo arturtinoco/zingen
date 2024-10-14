@@ -3,7 +3,7 @@ Desafio prático desenvolvido durante Formação Full-Stack promovida pela Rocke
 ___
 ## 🌐 Layout direcionado para Landing Page de aplicativo
   
-![Gif de demonstração do Formulário de Convite](.gitconfig/zingen-karaoke-preview.gif)
+![Gif de demonstração do Zingen](.gitconfig/zingen-karaoke-preview.gif)
   
 ___
 ### 🤖 Tecnologias e Recursos  
